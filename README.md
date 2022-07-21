@@ -13,7 +13,7 @@ Configurable UNET model from scratch using PyTorch.
   Output channels
 - features: 
 
-  features extracted from the first convolution, in the rest of convolutions the number of features will get multipled by 2.
+  initial features extracted from first layer
 - n_blocks: 
   
   number of encoder/decoder blocks
